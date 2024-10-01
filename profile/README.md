@@ -1,12 +1,8 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| ParticipantID | Organization                      | Solver(s)         | Grid(s)                   | Name(s)
+|:-------------:| --------------------------------- | ----------------- | ------------------------- | -----------------------------
+| 001           | University of the West of England | ANSYS-CFX, Fluent |                           | Chris Toomer, Kitty Knight
+| 002           | Embraer                           | CFD++, SU2        | Committee supplied grids  | Murilo Cunha Mestriner
+| 003           | Boeing(BCA)         | OVERFLOW, GGNS-2D, GGNS-T1/EPIC | Custom User Grid, Adapted | Ben Rider, Julie Duetsch-Patel
+| 004           |                                   |                   |                           |
+| 005           |                                   |                   |                           |
+| 006           |                                   |                   |                           |
