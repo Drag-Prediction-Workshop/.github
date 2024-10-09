@@ -20,3 +20,4 @@
 | 018           | Zenotech                          | zCFD                            | Committee supplied grids  | Oliver Darbyshire, Tom Wainwright, Mark Allan
 | 019           | Siemens                           | Simcenter STAR-CCM+             | Custom probably           | Chris Nelson
 | 020           | Duke University                   | Fluent, FUN3D                   | Committee supplied grids and custom | Luisa Piccolo Serafim, Harry Xu, and Ale Assael
+| 021           | CREATE-AV                         | Kestrel                         | Committee supplied grids  | Steve Lamberson, Brent Pomeroy, Tausif Jamal
