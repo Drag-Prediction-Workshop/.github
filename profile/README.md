@@ -16,3 +16,5 @@
 | 014           | Indian Institute of Science       | SU2                             | Committee supplied grids  | Adithya Udupa, Kartik Venkatraman
 | 015           | US Army SRD                       | FUN3D                           | Committee supplied grids, custom | Tin-Chee Wong
 | 016           | ITA_EMB                           | SU2                             | Committee supplied grids, custom | Bruno Kronbauer de Oliveira, Withor Menezes, Angelo Verri
+| 017           | Flexcompute                       | Flow360                         | Committee supplied grids  | CJ Doolittle, Thomas Fitzgibbon, Malhar Prajapati
+| 018           | Zenotech                          | zCFD                            | Committee supplied grids  | Oliver Darbyshire, Tom Wainwright, Mark Allan
