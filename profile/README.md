@@ -24,3 +24,4 @@
 | 022           | DLR                               | TAU, CODA                       | Committee supplied grids  | Stefan Keye
 | 023           | Polytechnique Montréal            | CHAMPS                          | Committee supplied grids  | Baptiste Arnould, Charles Radigue, Eric Laurendeau
 | 024           | University of Liverpool           | TAU                             | Committee supplied grids  | Daniel Nash, Sebastian Timme
+| 025           | TLG Aerospace                     | STAR-CCM+                       | Committee supplied grids  | Peter Burns
