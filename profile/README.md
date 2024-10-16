@@ -26,3 +26,4 @@
 | 024           | University of Liverpool           | TAU                             | Committee supplied grids  | Daniel Nash, Sebastian Timme
 | 025           | TLG Aerospace                     | STAR-CCM+                       | Committee supplied grids  | Peter Burns
 | 026           | Corvid Technologies               | Raven                           | Committee supplied grids  | Iam Eldridge-Allegra, Greg McGowan
+| 027           | Royal Melbourne Institute of Technology |                           |                           | Michael Candon, Truman Gernre
