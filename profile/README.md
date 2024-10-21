@@ -6,7 +6,7 @@
 | 004           | NASA (Langley CAB)                | USM3D-ME                        | Committee supplied grids  | Brent Pomeroy, TJ Jamal
 | 005           | NASA (Ames)                       | LAVA                            | Committee supplied grid, possibly custom | Jeff Housman
 | 006           | US Air Force Academy              | Loci/CHEM                       | Committee supplied grids  | Adam Jirasek
-| 007           | JAXA                              | FaSTAR                          | Committee supplied grids  | Andrea Sansica, Tomoaki Matsuzaki
+| 007           | JAXA                              | FaSTAR                          | Committee supplied grids  | Andrea Sansica, Tomoaki Matsuzaki, David James Lushe
 | 008           | Metacomp                          | CFD++                           | Committee supplied grids  | Paul Batten, Nili Bachchan, Ravi Kumar Kovvali
 | 009           | ONERA (DAAA)                      |                                 |                           | Ilias Petropoulos
 | 010           | Boeing (BCA Technology)           | charLES                         | Custom Voronoi            | Konrad Goc, Adam Clark
