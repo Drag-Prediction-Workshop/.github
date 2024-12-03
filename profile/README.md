@@ -31,3 +31,4 @@
 | 029           | MIT                               | SANS                            | Adapted grids             | Marshall Galbraith
 | 030           | Lockheed Martin                   | Falcon                          | Committee supplied grids  | Anthony Ashley
 | 031           | Lufthansa Technik                 | Ansys CFX                       | Committee supplied grids  | Tobias Pesnacker
+| 032           | KTH Royal Institute of Technology |                                 | Committee supplied grids  | Johan Jansson
