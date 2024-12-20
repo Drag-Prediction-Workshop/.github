@@ -12,7 +12,7 @@
 | 010           | Boeing (BCA Technology)           | charLES                         | Custom Voronoi            | Konrad Goc, Adam Clark
 | 011           | Istanbul Technical University     | HEMLAB                          | Committee supplied grids and adapted grids | Mehmet Sahin, Ibrahim Asar
 | 012           | NASA (Langley AEL)                | FUN3D                           | Committee supplied grids, adapted  | Pawel Chwalowski, Steve Massey, Kevin Jacobson
-| 013           | Technion – Israel Institute of Technology | PowerFLOW               | Committee supplied grids  | Hadar Ben-Gida
+| 013           | Technion – Israel Institute of Technology (Ben-Gida) | PowerFLOW               | Committee supplied grids  | Hadar Ben-Gida
 | 014           | Indian Institute of Science       | SU2                             | Committee supplied grids  | Adithya Udupa, Kartik Venkatraman
 | 015           | US Army SRD                       | FUN3D                           | Committee supplied grids, custom | Tin-Chee Wong
 | 016           | ITA_EMB                           | SU2                             | Committee supplied grids, custom | Bruno Kronbauer de Oliveira, Withor Menezes, Angelo Verri
@@ -32,3 +32,4 @@
 | 030           | Lockheed Martin                   | Falcon                          | Committee supplied grids  | Anthony Ashley
 | 031           | Lufthansa Technik                 | Ansys CFX                       | Committee supplied grids  | Tobias Pesnacker
 | 032           | KTH Royal Institute of Technology |                                 | Committee supplied grids  | Johan Jansson
+| 033           | Technion – Israel Institute of Technology (Raveh) |                 | Committee supplied grids  | Daniella Raveh, Yuval Levy
