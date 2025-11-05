@@ -2,7 +2,7 @@
 |:-------------:| --------------------------------- | ------------------------------- | ------------------------- | -----------------------------
 | 001           | University of the West of England | ANSYS-CFX, Fluent               |                           | Chris Toomer, Kitty Knight
 | 002           | Embraer                           | CFD++, SU2                      | Committee supplied grids  | Murilo Cunha Mestriner 
-| 003           | Boeing (BCA PD)                   | OVERFLOW, GGNS-2D, GGNS-T1/EPIC | Custom user grid, adapted | Ben Rider, Julie Duetsch-Patel
+| 003           | Boeing (BCA PD)                   | OVERFLOW, FELight, GGNS-2D, GGNS-T1/EPIC | Custom user grid, adapted | Ben Rider, Julie Duetsch-Patel
 | 004           | NASA (Langley CAB)                | USM3D-ME                        | Committee supplied grids  | Brent Pomeroy, TJ Jamal, Mohagna Pandya
 | 005           | NASA (Ames)                       | LAVA                            | Committee supplied grid, possibly custom | Jeff Housman
 | 006           | US Air Force Academy              | Loci/CHEM                       | Committee supplied grids  | Adam Jirasek
@@ -35,3 +35,4 @@
 | 033           | Technion – Israel Institute of Technology (Raveh) | EZAir, Arion    | Committee supplied grids  | Daniella Raveh, Yuval Levy
 | 034           | ADASI                             |                                 |                           | Gilberto Becker
 | 035           | MIT                               |  Star-CCM+                      | Committee supplied grids  | Grace Liu, Myrella Cabral
+| 036           |                                   |                                 |                           | Lydia Jiachen Wang
