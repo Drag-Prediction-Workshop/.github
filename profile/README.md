@@ -38,4 +38,4 @@
 | 036           |                                   |                                 |                           | Lydia Jiachen Wang
 | 037           | Helden Aerospace                  | USM3DME                         |                           | Andrew Wick, Rick Hooker
 | 038           | Cadence                           | FUN3D/OpenFOAM                  | Committee supplied grids  | Sam Salehain
-| 039           | ADASI                             |                                 |                           | Maximiliano (Max) A. F. de Souza 
+| 039           | ADASI                             | Ansys Fluent                    |                           | Maximiliano (Max) A. F. de Souza 
