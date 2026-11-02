@@ -44,3 +44,4 @@
 | 042           | Gulfstream                        |                                 | Committee supplied grids  | Joel St. Onge
 | 043           | Forge Physics                     |                                 |                           | Ben Eugster
 | 044           | TurboStream                       | TurboStream                     | Committee supplied grids  | Tobias Brandvik
+| 045           | The Aerospace Corporation         | Loci/Chem                       | Committee supplied grids  | Andrew Voegele
